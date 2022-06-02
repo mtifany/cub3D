@@ -1,0 +1,16 @@
+F      220,      100,0
+
+
+NO ./images/wall_new.xpm
+
+SO ./images/light_blue_concrete.xpm
+
+WE ./images/perple_stone.xpm
+
+EA         ./images/AnyConv.com__ice.xpm
+
+C      225,30,0
+
+111
+1N1
+111
